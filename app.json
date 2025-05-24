@@ -62,7 +62,7 @@
         
         "START_PIC": {
             "description": "Your Bot Start Command Pic, You Can Get It From @GenTelegraphBot",
-            "value": "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg",
+            "value": "https://envs.sh/s5F.jpg",
             "required": false
         }
     },
